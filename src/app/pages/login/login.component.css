@@ -1,0 +1,48 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login-container > * {
+    width: 40%;
+    margin: 0 auto;
+ }
+
+ .title-center {
+    margin: 0 auto;
+  }
+
+  .mat-form-field {
+    display: block;
+    margin: 20px 0px;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  td.mat-cell, td.mat-footer-cell, th.mat-header-cell {
+    text-align: center;
+  }
+
+  .mat-card-header .mat-card-title {
+    margin: 10px;
+  }
+
+  .mat-card-header {
+    background-color: #ff4081;
+  }
+
+  .mat-card {
+    padding: 0px;
+  }
+
+  .maincontainer {
+    width: 50%;
+    margin: 0 auto;
+    height:300px;
+    
+    margin-top: 10%;
+    
+  }
+
